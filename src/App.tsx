@@ -191,7 +191,7 @@ export default function App() {
           <p>
             QR Code Studio Pro · Desenvolvido por{' '}
             <a
-              href="https://github.com"
+              href="https://github.com/guihcavalcante"
               target="_blank"
               rel="noopener noreferrer"
               className="font-semibold text-slate-800 underline-offset-4 hover:text-blue-700 hover:underline dark:text-slate-200 dark:hover:text-blue-400"
