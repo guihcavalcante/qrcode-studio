@@ -2,7 +2,7 @@
 
 Gerador profissional de QR Codes **100% gratuito e client-side** (todo o processamento ocorre localmente no navegador, sem envio de dados para servidores externos). Desenvolvido com foco em personalização visual avançada, validação automática de legibilidade e exportação pronta para uso digital ou impressão gráfica.
 
-🔗 **Acesse o projeto online:** [guihcavalcante.github.io/qrcode-studio]([https://guihcavalcante.github.io/qrcode-studio/])
+🔗 **Acesse o projeto online:** [guihcavalcante.github.io/qrcode-studio](https://guihcavalcante.github.io/qrcode-studio/)
 
 ---
 
