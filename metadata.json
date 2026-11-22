@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Studio Pro",
+  "description": "Gerador profissional de QR Codes 100% gratuito e no navegador com personalização avançada, logos, gradientes, PIX, WhatsApp, Wi-Fi, vCard e exportação em alta resolução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
