@@ -188,10 +188,21 @@ export default function App() {
 
       <footer className="mt-10 border-t border-slate-200/80 py-6 dark:border-slate-800/80">
         <div className="mx-auto flex max-w-[1360px] flex-wrap items-center justify-between gap-4 px-4 text-xs text-slate-500 sm:px-6 lg:px-8 dark:text-slate-400">
-          <p>QR Code Studio Pro · Processamento local no navegador, nenhum dado é enviado a servidores externos.</p>
+          <p>
+            QR Code Studio Pro · Desenvolvido por{' '}
+            <a
+              href="https://github.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-slate-800 underline-offset-4 hover:text-blue-700 hover:underline dark:text-slate-200 dark:hover:text-blue-400"
+            >
+              Guilherme Hernandes Cavalcante
+            </a>
+          </p>
           <p className="font-mono">PNG · SVG · WEBP</p>
         </div>
       </footer>
+
 
       <ToastContainer toasts={toasts} onDismiss={dismissToast} />
     </div>
